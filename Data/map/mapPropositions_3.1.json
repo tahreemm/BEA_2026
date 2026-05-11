@@ -1,0 +1,22 @@
+{
+"((-C+J)>-(B*A))":{"id":2,"frequency":21, "use_frequency":19},
+"(A*-B)":{"id":11,"frequency":21, "use_frequency":21},
+"(C>B)":{"id":14,"frequency":21, "use_frequency":19},
+"-B":{"id":17,"frequency":21, "use_frequency":21},
+"-(B*A)":{"id":15,"frequency":20, "use_frequency":20},
+"(-C+J)":{"id":10,"frequency":19, "use_frequency":19},
+"-C":{"id":18,"frequency":19, "use_frequency":19},
+"(-C+B)":{"id":9,"frequency":7, "use_frequency":5},
+"(-(-C+J)+-(B*A))":{"id":5,"frequency":2, "use_frequency":0},
+"(-B*A)":{"id":7,"frequency":2, "use_frequency":2},
+"A":{"id":19,"frequency":2, "use_frequency":0},
+"((--C*-J)+-(B*A))":{"id":1,"frequency":1, "use_frequency":0},
+"((B*A)>-(-C+J))":{"id":3,"frequency":1, "use_frequency":0},
+"((C*-J)+-(B*A))":{"id":4,"frequency":1, "use_frequency":0},
+"(--(B*A)>-(-C+J))":{"id":6,"frequency":1, "use_frequency":0},
+"(-B+-A)":{"id":8,"frequency":1, "use_frequency":1},
+"(B*-B)":{"id":12,"frequency":1, "use_frequency":1},
+"(B*A)":{"id":13,"frequency":1, "use_frequency":1},
+"--(B*A)":{"id":16,"frequency":1, "use_frequency":1},
+"B":{"id":20,"frequency":1, "use_frequency":1}
+}

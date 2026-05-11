@@ -1,0 +1,10 @@
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,K;(Q>K).Q;Modus Ponens,P;(K>P).K;Modus Ponens,R;(R*O);Simplification,(P*R);P.R;Conjunction
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,(Q>P);(K>P).(Q>K);Hypothetical Syllogism,P;(Q>P).Q;Modus Ponens,R;(R*O);Simplification,(P*R);P.R;Conjunction
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,(Q>P);(K>P).(Q>K);Hypothetical Syllogism,R;(R*O);Simplification,P;(Q>P).Q;Modus Ponens,(P*R);P.R;Conjunction
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,R;(R*O);Simplification,K;(Q>K).Q;Modus Ponens,P;(K>P).K;Modus Ponens,(P*R);P.R;Conjunction
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,R;(R*O);Simplification,O;(R*O);Simplification,K;(Q>K).Q;Modus Ponens,P;(K>P).K;Modus Ponens,(P*R);P.R;Conjunction
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,(-K+P);(K>P);Implication,K;(Q>K).Q;Modus Ponens,P;(K>P).K;Modus Ponens,R;(R*O);Simplification,(P*R);P.R;Conjunction
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,(Q>P);(K>P).(Q>K);Hypothetical Syllogism,K;(Q>K).Q;Modus Ponens,P;(K>P).K;Modus Ponens,R;(R*O);Simplification,(P*R);P.R;Conjunction
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,R;(R*O);Simplification,(-Q+K);(Q>K);Implication,(-K+P);(K>P);Implication,--Q;Q;Double Negation,K;(-Q+K).--Q;Disjunctive Syllogism,--K;K;Double Negation,P;(-K+P).--K;Disjunctive Syllogism,(P*R);P.R;Conjunction
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,(-Q+K);(Q>K);Implication,(-K+P);(K>P);Implication,--Q;Q;Double Negation,K;(-Q+K).--Q;Disjunctive Syllogism,--K;K;Double Negation,P;(-K+P).--K;Disjunctive Syllogism,R;(R*O);Simplification,(P*R);P.R;Conjunction
+(Q>K);0;Given,(R*O);0;Given,(K>P);0;Given,Q;0;Given,(-K+P);(K>P);Implication,R;(R*O);Simplification,(-Q+K);(Q>K);Implication,(K+-Q);(-Q+K);Commutative,--Q;Q;Double Negation,K;(K+-Q).--Q;Disjunctive Syllogism,(P+-K);(-K+P);Commutative,--K;K;Double Negation,P;(P+-K).--K;Disjunctive Syllogism,(P*R);P.R;Conjunction

@@ -1,0 +1,4 @@
+-(Y+F);0;Given,(F+---L);0;Given,(F+-L);(F+---L);Double Negation,(-Y*-F);-(Y+F);DeMorgan's Law,-Y;(-Y*-F);Simplification,-F;(-Y*-F);Simplification,-L;(F+-L).-F;Disjunctive Syllogism,(-Y*-L);-L.-Y;Conjunction
+-(Y+F);0;Given,(F+---L);0;Given,(F+-L);(F+---L);Double Negation,(-Y*-F);-(Y+F);DeMorgan's Law,-F;(-Y*-F);Simplification,-L;(F+-L).-F;Disjunctive Syllogism,-Y;(-Y*-F);Simplification,(-Y*-L);-L.-Y;Conjunction
+-(Y+F);0;Given,(F+---L);0;Given,(-Y*-F);-(Y+F);DeMorgan's Law,-F;(-Y*-F);Simplification,---L;(F+---L).-F;Disjunctive Syllogism,-L;---L;Double Negation,-Y;(-Y*-F);Simplification,(-Y*-L);-L.-Y;Conjunction
+-(Y+F);0;Given,(F+---L);0;Given,(F+-L);(F+---L);Double Negation,(-Y*-F);-(Y+F);DeMorgan's Law,-Y;(-Y*-F);Simplification,-F;(-Y*-F);Simplification,(-F>-L);(F+-L);Implication,-L;(-F>-L).-F;Modus Ponens,(-Y*-L);-L.-Y;Conjunction

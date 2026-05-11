@@ -1,0 +1,20 @@
+{
+"(--G+-B)":{"id":2,"frequency":5, "use_frequency":5},
+"(G+-B)":{"id":11,"frequency":5, "use_frequency":5},
+"(G>D)":{"id":12,"frequency":5, "use_frequency":5},
+"-(-G*B)":{"id":14,"frequency":5, "use_frequency":5},
+"(-B+D)":{"id":4,"frequency":4, "use_frequency":4},
+"(B>D)":{"id":9,"frequency":4, "use_frequency":4},
+"(B>G)":{"id":10,"frequency":4, "use_frequency":4},
+"(-B+G)":{"id":5,"frequency":3, "use_frequency":3},
+"(--B*-D)":{"id":1,"frequency":1, "use_frequency":1},
+"(-B*B)":{"id":3,"frequency":1, "use_frequency":1},
+"(-G+D)":{"id":6,"frequency":1, "use_frequency":1},
+"(-G>-B)":{"id":7,"frequency":1, "use_frequency":1},
+"(B*-D)":{"id":8,"frequency":1, "use_frequency":1},
+"-(-B+D)":{"id":13,"frequency":1, "use_frequency":1},
+"-B":{"id":15,"frequency":1, "use_frequency":1},
+"-D":{"id":16,"frequency":1, "use_frequency":1},
+"-G":{"id":17,"frequency":1, "use_frequency":1},
+"B":{"id":18,"frequency":1, "use_frequency":1}
+}

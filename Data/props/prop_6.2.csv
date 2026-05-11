@@ -1,0 +1,4 @@
+-(E*T);0;Given,(-E+-L);0;Given,(T*-L);0;Given,-L;(T*-L);Simplification,(-E+-T);-(E*T);DeMorgan's Law,T;(T*-L);Simplification,--T;T;Double Negation,-E;(-E+-T).--T;Disjunctive Syllogism
+-(E*T);0;Given,(-E+-L);0;Given,(T*-L);0;Given,T;(T*-L);Simplification,(-E+-T);-(E*T);DeMorgan's Law,--T;T;Double Negation,(-T+-E);(-E+-T);Commutative,-E;(-T+-E).--T;Disjunctive Syllogism
+-(E*T);0;Given,(-E+-L);0;Given,(T*-L);0;Given,T;(T*-L);Simplification,-L;(T*-L);Simplification,(-E+-T);-(E*T);DeMorgan's Law,(E>-T);(-E+-T);Implication,(--T>-E);(E>-T);Contrapositive,(T>-E);(--T>-E);Double Negation,-E;(T>-E).T;Modus Ponens
+-(E*T);0;Given,(-E+-L);0;Given,(T*-L);0;Given,(-E+-T);-(E*T);DeMorgan's Law,(E>-L);(-E+-L);Implication,(E>-T);(-E+-T);Implication,((E>-T)*(E>-L));(E>-L).(E>-T);Conjunction,(-T+-E);(-E+-T);Commutative,T;(T*-L);Simplification,(T>-E);(-T+-E);Implication,-E;(T>-E).T;Modus Ponens

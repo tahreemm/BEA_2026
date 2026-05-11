@@ -1,0 +1,29 @@
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,-Y;(Y>F).-F;Modus Tollens,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,-Y;(Y>F).-F;Modus Tollens,(-Y*---F);---F.-Y;Conjunction,-(Y+--F);(-Y*---F);DeMorgan's Law,-(Y+F);-(Y+--F);Double Negation
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,-Y;(Y>F).-F;Modus Tollens,(-Y+F);(Y>F);Implication,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-Y+F);(Y>F);Implication,-Y;(-Y+F).-F;Disjunctive Syllogism,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,-Y;(Y>F).-F;Modus Tollens,(-Y+F);-Y;Addition,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-F>-Y);(Y>F);Contrapositive,-Y;(-F>-Y).-F;Modus Ponens,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,(-Y+F);(Y>F);Implication,-F;---F;Double Negation,-Y;(-Y+F).-F;Disjunctive Syllogism,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,-Y;(Y>F).-F;Modus Tollens,(-F*-Y);-F.-Y;Conjunction,-(F+Y);(-F*-Y);DeMorgan's Law,-(Y+F);-(F+Y);Commutative
+(Y>F);0;Given,---F;0;Given,(-Y+F);(Y>F);Implication,-F;---F;Double Negation,-Y;(Y>F).-F;Modus Tollens,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,(-F>-Y);(Y>F);Contrapositive,-F;---F;Double Negation,-Y;(-F>-Y).-F;Modus Ponens,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,-Y;(Y>F).-F;Modus Tollens,(-Y+-F);-Y;Addition,-(Y*F);(-Y+-F);DeMorgan's Law,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,(-Y+F);(Y>F);Implication,-F;---F;Double Negation,-Y;(-Y+F).-F;Disjunctive Syllogism,(-Y+-F);-Y;Addition,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-Y+F);(Y>F);Implication,(F+-Y);(-Y+F);Commutative,-Y;(F+-Y).-F;Disjunctive Syllogism,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-F>-Y);(Y>F);Contrapositive,-Y;(-F>-Y).-F;Modus Ponens,(-F*-Y);-F.-Y;Conjunction,-(F+Y);(-F*-Y);DeMorgan's Law,-(Y+F);-(F+Y);Commutative
+(Y>F);0;Given,---F;0;Given,(-F>-Y);(Y>F);Contrapositive,(F+-Y);(-F>-Y);Implication,-F;---F;Double Negation,-Y;(-F>-Y).-F;Modus Ponens,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,(-Y+F);(Y>F);Implication,-F;---F;Double Negation,-Y;(-Y+F).-F;Disjunctive Syllogism,(-F*-Y);-F.-Y;Conjunction,-(F+Y);(-F*-Y);DeMorgan's Law,-(Y+F);-(F+Y);Commutative
+(Y>F);0;Given,---F;0;Given,(-Y+F);(Y>F);Implication,-F;---F;Double Negation,-Y;(-Y+F).-F;Disjunctive Syllogism,(-Y*---F);---F.-Y;Conjunction,-(Y+--F);(-Y*---F);DeMorgan's Law,-(Y+F);-(Y+--F);Double Negation
+(Y>F);0;Given,---F;0;Given,(-Y+F);(Y>F);Implication,-F;---F;Double Negation,-Y;(-Y+F).-F;Disjunctive Syllogism,(-Y*---F);---F.-Y;Conjunction,(-Y*-F);(-Y*---F);Double Negation,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,-Y;(Y>F).-F;Modus Tollens,(-Y+F);(Y>F);Implication,---Y;-Y;Double Negation,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-F>-Y);(Y>F);Contrapositive,(F+-Y);(-F>-Y);Implication,-Y;(F+-Y).-F;Disjunctive Syllogism,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,(-F>-Y);(Y>F);Contrapositive,-F;---F;Double Negation,(F+-Y);(-F>-Y);Implication,-Y;(F+-Y).-F;Disjunctive Syllogism,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,(-F>-Y);(Y>F);Contrapositive,-F;---F;Double Negation,-Y;(-F>-Y).-F;Modus Ponens,(-F*-Y);-F.-Y;Conjunction,-(F+Y);(-F*-Y);DeMorgan's Law,-(Y+F);-(F+Y);Commutative
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-Y+F);(Y>F);Implication,-Y;(-Y+F).-F;Disjunctive Syllogism,(-Y+-F);-Y;Addition,-(Y*F);(-Y+-F);DeMorgan's Law,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-Y+F);(Y>F);Implication,(F+-Y);(-Y+F);Commutative,(-F>-Y);(F+-Y);Implication,-Y;(-F>-Y).-F;Modus Ponens,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-F>-Y);(Y>F);Contrapositive,(--F+-Y);(-F>-Y);Implication,(F+-Y);(--F+-Y);Double Negation,-Y;(F+-Y).-F;Disjunctive Syllogism,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,(-Y+F);(Y>F);Implication,(-F>-Y);(Y>F);Contrapositive,(--F+-Y);(-F>-Y);Implication,(F+-Y);(--F+-Y);Double Negation,-F;---F;Double Negation,-Y;(-F>-Y).-F;Modus Ponens,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-F>-Y);(Y>F);Contrapositive,(--F+-Y);(-F>-Y);Implication,(F+-Y);(--F+-Y);Double Negation,(-Y+F);(F+-Y);Commutative,-Y;(-Y+F).-F;Disjunctive Syllogism,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-F>-Y);(Y>F);Contrapositive,(F+-Y);(-F>-Y);Implication,-Y;(F+-Y).-F;Disjunctive Syllogism,(-Y+-F);-Y;Addition,-(Y*F);(-Y+-F);DeMorgan's Law,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law
+(Y>F);0;Given,---F;0;Given,-F;---F;Double Negation,(-Y+F);(Y>F);Implication,((-Y+F)+-F);(-Y+F);Addition,(-Y+(F+-F));((-Y+F)+-F);Associative,-Y;(-Y+F).-F;Disjunctive Syllogism,(-Y+-F);-Y;Addition,-(Y*F);(-Y+-F);DeMorgan's Law,(-Y*-F);-F.-Y;Conjunction,-(Y+F);(-Y*-F);DeMorgan's Law

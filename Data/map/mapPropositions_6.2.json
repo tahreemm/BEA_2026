@@ -1,0 +1,16 @@
+{
+"(-E+-L)":{"id":3,"frequency":4, "use_frequency":0},
+"(-E+-T)":{"id":4,"frequency":4, "use_frequency":4},
+"(T*-L)":{"id":8,"frequency":4, "use_frequency":4},
+"-(E*T)":{"id":10,"frequency":4, "use_frequency":4},
+"-E":{"id":12,"frequency":4, "use_frequency":4},
+"T":{"id":14,"frequency":4, "use_frequency":4},
+"(-T+-E)":{"id":5,"frequency":2, "use_frequency":2},
+"(E>-T)":{"id":7,"frequency":2, "use_frequency":1},
+"(T>-E)":{"id":9,"frequency":2, "use_frequency":2},
+"--T":{"id":11,"frequency":2, "use_frequency":2},
+"-L":{"id":13,"frequency":2, "use_frequency":0},
+"((E>-T)*(E>-L))":{"id":1,"frequency":1, "use_frequency":0},
+"(--T>-E)":{"id":2,"frequency":1, "use_frequency":1},
+"(E>-L)":{"id":6,"frequency":1, "use_frequency":0}
+}

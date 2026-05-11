@@ -1,0 +1,18 @@
+{
+"(K>P)":{"id":4,"frequency":35, "use_frequency":35},
+"(P*R)":{"id":5,"frequency":35, "use_frequency":35},
+"(Q>K)":{"id":7,"frequency":35, "use_frequency":35},
+"(R*O)":{"id":9,"frequency":35, "use_frequency":35},
+"P":{"id":14,"frequency":35, "use_frequency":35},
+"Q":{"id":15,"frequency":35, "use_frequency":35},
+"R":{"id":16,"frequency":35, "use_frequency":35},
+"K":{"id":12,"frequency":23, "use_frequency":23},
+"(Q>P)":{"id":8,"frequency":13, "use_frequency":12},
+"(-K+P)":{"id":1,"frequency":4, "use_frequency":3},
+"(-Q+K)":{"id":2,"frequency":3, "use_frequency":3},
+"--K":{"id":10,"frequency":3, "use_frequency":3},
+"--Q":{"id":11,"frequency":3, "use_frequency":3},
+"O":{"id":13,"frequency":2, "use_frequency":0},
+"(K+-Q)":{"id":3,"frequency":1, "use_frequency":1},
+"(P+-K)":{"id":6,"frequency":1, "use_frequency":1}
+}

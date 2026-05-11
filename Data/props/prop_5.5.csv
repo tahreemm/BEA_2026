@@ -1,0 +1,2 @@
+-(-G*B);0;Given,(G>D);0;Given,(--G+-B);-(-G*B);DeMorgan's Law,(G+-B);(--G+-B);Double Negation,(-B+G);(G+-B);Commutative,(B>G);(-B+G);Implication,(B>D);(B>G).(G>D);Hypothetical Syllogism,(-B+D);(B>D);Implication
+-(-G*B);0;Given,(G>D);0;Given,(--G+-B);-(-G*B);DeMorgan's Law,(G+-B);(--G+-B);Double Negation,(-G>-B);(G+-B);Implication,(B>G);(-G>-B);Contrapositive,(B>D);(B>G).(G>D);Hypothetical Syllogism,(-B+D);(B>D);Implication
