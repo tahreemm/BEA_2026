@@ -1,15 +1,8 @@
-# BEA 2026 — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
+# Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
 
-Code and data accompanying the paper:
+Accepted at: 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA), colocated with ACL 2026.
 
-> Cite: ```bibtex
-@inproceedings{yasir2026confirming,
-  title  = {Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most},
-  author = {Yasir, Tahreem and Li, Wenbo and Gilson, Sam and Tithi, Sutapa Dey and Tian, Xiaoyi and Barnes, Tiffany},
-  booktitle = {Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA)},
-  year   = {2026}
-}
-```
+Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes — North Carolina State University.
 
 ![KG-grounded experimental pipeline for evaluating LLM tutoring feedback.](pipeline_paper.png)
 
