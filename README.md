@@ -81,6 +81,12 @@ All experiments use `temperature=0.0` for determinism. Prompt templates are in [
 
 ## Citation
 
+**APA:**
+
+Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026). Confirming correct, missing the rest: LLM tutoring agents struggle where feedback matters most. In *Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA)*. Association for Computational Linguistics.
+
+**BibTeX:**
+
 ```bibtex
 @inproceedings{yasir2026confirming,
   title  = {Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most},
